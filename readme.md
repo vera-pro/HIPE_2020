@@ -1,0 +1,1 @@
+The repository contains our solutions (team31) for the [CLEF HIPE 2020 shared task](https://impresso.github.io/CLEF-HIPE-2020/), including named entity recognition and two settings of entity linking: end-to-end in bundle2 and NEL-only in bundle5.
